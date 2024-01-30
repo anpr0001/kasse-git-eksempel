@@ -3,9 +3,13 @@
 }
 
 h1 {
-  color: blueviolet;
+  color: rgb(43, 113, 226);
 }
 
 body {
-  color: cornflowerblue;
+  background-color: rgb(233, 176, 176);
+}
+
+p {
+  color: brown;
 }
